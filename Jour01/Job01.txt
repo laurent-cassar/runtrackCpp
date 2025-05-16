@@ -1,0 +1,4 @@
+// short int x = 13
+// char y = RIEN
+// char z = RIEN
+// char w = #
